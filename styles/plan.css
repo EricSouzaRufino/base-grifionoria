@@ -1,0 +1,25 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+@font-face {
+    font-family: Barlow;
+    src: url(/assets/fonts/Barlow-Regular.ttf);
+}
+
+@font-face {
+    font-family: Fraunces;
+    src: url(/assets/fonts/Fraunces_9pt_Soft-Regular.ttf);
+}
+
+
+:root{
+    --darkCyan: #0E8784;
+    --DarkGreyBlue: #333D4B;
+    --paleOrange: #FDD6BA;
+    --lightCreamBG: #FEFCF7;
+    --grey: #83888F;
+
+}
